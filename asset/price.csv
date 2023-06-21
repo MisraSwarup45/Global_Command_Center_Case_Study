@@ -1,0 +1,520 @@
+Plant,Material Description, Price per case 
+AA,B&CR: 750RB Amber Calabash & Brown Crate,16.0359
+AD,B&CR: 750RB Amber Calabash & Brown Crate,16.0359
+AG,B&CR: 750RB Amber Calabash & Brown Crate,16.0359
+AF,B&CR: 750RB Amber Calabash & Brown Crate,16.0359
+AC,B&CR: 750RB Amber Calabash & Brown Crate,16.0359
+AE,B&CR: 750RB Amber Calabash & Brown Crate,16.0359
+AB,B&CR: 750RB Amber Calabash & Brown Crate,16.0359
+AA,B&CR: 750RB Green Elite & Red Crate,16.9192
+AD,B&CR: 750RB Green Elite & Red Crate,16.9161
+AG,B&CR: 750RB Green Elite & Red Crate,16.9192
+AF,B&CR: 750RB Green Elite & Red Crate,16.9192
+AC,B&CR: 750RB Green Elite & Red Crate,16.9192
+AE,B&CR: 750RB Green Elite & Red Crate,16.9192
+AB,B&CR: 750RB Green Elite & Red Crate,16.9192
+AA,B&CR: 660RB Green Lite & Red Crate,16.9192
+AD,B&CR: 660RB Green Lite & Red Crate,16.9192
+AG,B&CR: 660RB Green Lite & Red Crate,16.9192
+AF,B&CR: 660RB Green Lite & Red Crate,16.9192
+AC,B&CR: 660RB Green Lite & Red Crate,16.9192
+AE,B&CR: 660RB Green Lite & Red Crate,16.9192
+AB,B&CR: 660RB Green Lite & Red Crate,16.9192
+AA,B&CR: 660RB Flint Diva & Blue Crate,16.9192
+AD,B&CR: 660RB Flint Diva & Blue Crate,16.9192
+AG,B&CR: 660RB Flint Diva & Blue Crate,16.9192
+AF,B&CR: 660RB Flint Diva & Blue Crate,16.9192
+AC,B&CR: 660RB Flint Diva & Blue Crate,16.9192
+AE,B&CR: 660RB Flint Diva & Blue Crate,16.9192
+AB,B&CR: 660RB Flint Diva & Blue Crate,16.9192
+AA,XYX B&CR: 375RB PINT PLASTIC BROWN,23.9358
+AD,XYX B&CR: 375RB PINT PLASTIC BROWN,23.9358
+AG,XYX B&CR: 375RB PINT PLASTIC BROWN,23.9358
+AF,XYX B&CR: 375RB PINT PLASTIC BROWN,23.9358
+AC,XYX B&CR: 375RB PINT PLASTIC BROWN,23.9358
+AE,XYX B&CR: 375RB PINT PLASTIC BROWN,23.9358
+AB,XYX B&CR: 375RB PINT PLASTIC BROWN,23.9358
+AA,YX B&CR: 340RB PINT PLASTIC GREEN,23.9358
+AD,YX B&CR: 340RB PINT PLASTIC GREEN,23.9358
+AG,YX B&CR: 340RB PINT PLASTIC GREEN,23.9358
+AF,YX B&CR: 340RB PINT PLASTIC GREEN,23.9358
+AC,YX B&CR: 340RB PINT PLASTIC GREEN,23.9358
+AE,YX B&CR: 340RB PINT PLASTIC GREEN,23.9358
+AB,YX B&CR: 340RB PINT PLASTIC GREEN,23.9358
+AA,B&CR: Mix Quart & Red Crate,16.9192
+AD,B&CR: Mix Quart & Red Crate,16.9192
+AG,B&CR: Mix Quart & Red Crate,16.9192
+AF,B&CR: Mix Quart & Red Crate,16.9192
+AC,B&CR: Mix Quart & Red Crate,16.9192
+AE,B&CR: Mix Quart & Red Crate,16.9192
+AB,B&CR: Mix Quart & Red Crate,16.9192
+AA,XXXB&CR: 660RB Flint MGD & Yellow Crate,16.9192
+AD,XXXB&CR: 660RB Flint MGD & Yellow Crate,16.9192
+AG,XXXB&CR: 660RB Flint MGD & Yellow Crate,16.9192
+AF,XXXB&CR: 660RB Flint MGD & Yellow Crate,16.9192
+AC,XXXB&CR: 660RB Flint MGD & Yellow Crate,16.9192
+AE,XXXB&CR: 660RB Flint MGD & Yellow Crate,16.9192
+AB,XXXB&CR: 660RB Flint MGD & Yellow Crate,16.9192
+AA,B&CR: 660RB Flint Bella & Grey Crate,16.9192
+AD,B&CR: 660RB Flint Bella & Grey Crate,16.9192
+AG,B&CR: 660RB Flint Bella & Grey Crate,16.9192
+AF,B&CR: 660RB Flint Bella & Grey Crate,16.9192
+AC,B&CR: 660RB Flint Bella & Grey Crate,16.9192
+AE,B&CR: 660RB Flint Bella & Grey Crate,16.9192
+AB,B&CR: 660RB Flint Bella & Grey Crate,16.9192
+AA,XXX KEG: 20L,263.2608
+AD,XXX KEG: 20L,263.2608
+AG,XXX KEG: 20L,263.2608
+AF,XXX KEG: 20L,263.2608
+AC,XXX KEG: 20L,263.2608
+AE,XXX KEG: 20L,263.2608
+AB,XXX KEG: 20L,263.2608
+AA,Keg: 30L Empty,263.2608
+AD,Keg: 30L Empty,263.2608
+AG,Keg: 30L Empty,263.2608
+AF,Keg: 30L Empty,263.2608
+AC,Keg: 30L Empty,263.2608
+AE,Keg: 30L Empty,263.2608
+AB,Keg: 30L Empty,263.2608
+AA,Keg: 30L Import Empty,263.2608
+AD,Keg: 30L Import Empty,263.2608
+AG,Keg: 30L Import Empty,263.2608
+AF,Keg: 30L Import Empty,263.2608
+AC,Keg: 30L Import Empty,263.2608
+AE,Keg: 30L Import Empty,263.2608
+AB,Keg: 30L Import Empty,263.2608
+AA,Keg: 50L Empty,263.2608
+AD,Keg: 50L Empty,263.2608
+AG,Keg: 50L Empty,263.2608
+AF,Keg: 50L Empty,263.2608
+AC,Keg: 50L Empty,263.2608
+AE,Keg: 50L Empty,263.2608
+AB,Keg: 50L Empty,263.2608
+AC,XXXKeg: 30L Grolsch Import Empty,263.2608
+AB,XXXKeg: 30L Grolsch Import Empty,263.2608
+AC,XXXKeg: 10L Peroni Empty,263.2608
+AE,XXXKeg: 10L Peroni Empty,263.2608
+AB,XXXKeg: 10L Peroni Empty,263.2608
+AA,Crate: Brown Quart,8.1442
+AD,Crate: Brown Quart,8.1442
+AG,Crate: Brown Quart,8.1442
+AF,Crate: Brown Quart,8.1442
+AC,Crate: Brown Quart,8.1442
+AE,Crate: Brown Quart,8.1442
+AB,Crate: Brown Quart,8.1442
+AA,XYX CRATE: 375RB PLASTIC BROWN,8.1442
+AD,XYX CRATE: 375RB PLASTIC BROWN,8.1442
+AG,XYX CRATE: 375RB PLASTIC BROWN,8.1442
+AF,XYX CRATE: 375RB PLASTIC BROWN,8.1442
+AC,XYX CRATE: 375RB PLASTIC BROWN,8.1442
+AE,XYX CRATE: 375RB PLASTIC BROWN,8.1442
+AB,XYX CRATE: 375RB PLASTIC BROWN,8.1442
+AA,XYX CRATE: 340RB PLASTIC GREEN,8.1442
+AD,XYX CRATE: 340RB PLASTIC GREEN,8.1442
+AG,XYX CRATE: 340RB PLASTIC GREEN,8.1442
+AF,XYX CRATE: 340RB PLASTIC GREEN,8.1442
+AC,XYX CRATE: 340RB PLASTIC GREEN,8.1442
+AE,XYX CRATE: 340RB PLASTIC GREEN,8.1442
+AB,XYX CRATE: 340RB PLASTIC GREEN,8.1442
+AA,Crate: Red Quart,8.1442
+AD,Crate: Red Quart,8.1442
+AG,Crate: Red Quart,8.1442
+AF,Crate: Red Quart,8.1442
+AC,Crate: Red Quart,8.1442
+AE,Crate: Red Quart,8.1442
+AB,Crate: Red Quart,8.1442
+AA,Crate: Blue Quart,8.1442
+AD,Crate: Blue Quart,8.1442
+AG,Crate: Blue Quart,8.1442
+AF,Crate: Blue Quart,8.1442
+AC,Crate: Blue Quart,8.1442
+AE,Crate: Blue Quart,8.1442
+AB,Crate: Blue Quart,8.1442
+AA,Crate: Yellow Quart,8.1442
+AD,Crate: Yellow Quart,8.1442
+AG,Crate: Yellow Quart,8.1442
+AF,Crate: Yellow Quart,8.1442
+AC,Crate: Yellow Quart,8.1442
+AE,Crate: Yellow Quart,8.1442
+AB,Crate: Yellow Quart,8.1442
+AA,Crate: Grey Quart,8.1442
+AD,Crate: Grey Quart,8.1442
+AG,Crate: Grey Quart,8.1442
+AF,Crate: Grey Quart,8.1442
+AC,Crate: Grey Quart,8.1442
+AE,Crate: Grey Quart,8.1442
+AB,Crate: Grey Quart,8.1442
+AA,Bottle: 750RB Amber Calabash,7.9942
+AD,Bottle: 750RB Amber Calabash,7.9942
+AG,Bottle: 750RB Amber Calabash,7.9942
+AF,Bottle: 750RB Amber Calabash,7.9942
+AC,Bottle: 750RB Amber Calabash,7.9942
+AE,Bottle: 750RB Amber Calabash,7.9942
+AB,Bottle: 750RB Amber Calabash,7.9942
+AA,Bottle: 750ml RB Green Elite,8.8744
+AD,Bottle: 750ml RB Green Elite,8.8744
+AG,Bottle: 750ml RB Green Elite,8.8744
+AF,Bottle: 750ml RB Green Elite,8.8744
+AC,Bottle: 750ml RB Green Elite,8.8744
+AE,Bottle: 750ml RB Green Elite,8.8744
+AB,Bottle: 750ml RB Green Elite,8.8744
+AA,Bottle: 660RB Green Lite,8.8775
+AD,Bottle: 660RB Green Lite,8.8775
+AG,Bottle: 660RB Green Lite,8.8775
+AF,Bottle: 660RB Green Lite,8.8775
+AC,Bottle: 660RB Green Lite,8.8775
+AE,Bottle: 660RB Green Lite,8.8775
+AB,Bottle: 660RB Green Lite,8.8775
+AA,Bottle: 660RB Flint Diva,8.8744
+AD,Bottle: 660RB Flint Diva,8.8744
+AG,Bottle: 660RB Flint Diva,8.8744
+AF,Bottle: 660RB Flint Diva,8.8744
+AC,Bottle: 660RB Flint Diva,8.8744
+AE,Bottle: 660RB Flint Diva,8.8744
+AB,Bottle: 660RB Flint Diva,8.8744
+AA,XYX Bottle: 375ml RB Amber Pint,15.8942
+AD,XYX Bottle: 375ml RB Amber Pint,15.8942
+AG,XYX Bottle: 375ml RB Amber Pint,15.8942
+AF,XYX Bottle: 375ml RB Amber Pint,15.8942
+AC,XYX Bottle: 375ml RB Amber Pint,15.8942
+AE,XYX Bottle: 375ml RB Amber Pint,15.8942
+AB,XYX Bottle: 375ml RB Amber Pint,15.8942
+AA,XYX BOTTLE: 340RB GREEN,15.8942
+AD,XYX BOTTLE: 340RB GREEN,15.8942
+AG,XYX BOTTLE: 340RB GREEN,15.8942
+AF,XYX BOTTLE: 340RB GREEN,15.8942
+AC,XYX BOTTLE: 340RB GREEN,15.8942
+AE,XYX BOTTLE: 340RB GREEN,15.8942
+AB,XYX BOTTLE: 340RB GREEN,15.8942
+AA,Bottle: 660RB Flint MGD,8.8775
+AD,Bottle: 660RB Flint MGD,8.8775
+AG,Bottle: 660RB Flint MGD,8.8775
+AF,Bottle: 660RB Flint MGD,8.8775
+AC,Bottle: 660RB Flint MGD,8.8775
+AE,Bottle: 660RB Flint MGD,8.8775
+AB,Bottle: 660RB Flint MGD,8.8775
+AA,Bottle: 660RB Flint Bella,8.8775
+AD,Bottle: 660RB Flint Bella,8.8775
+AG,Bottle: 660RB Flint Bella,8.8775
+AF,Bottle: 660RB Flint Bella,8.8775
+AC,Bottle: 660RB Flint Bella,8.8775
+AE,Bottle: 660RB Flint Bella,8.8775
+AB,Bottle: 660RB Flint Bella,8.8775
+AA,BOTTLE: 660ML RB 80MM DIVA,7.9942
+AD,BOTTLE: 660ML RB 80MM DIVA,8.8775
+AF,BOTTLE: 660ML RB 80MM DIVA,7.9942
+AC,BOTTLE: 660ML RB 80MM DIVA,7.9942
+AE,BOTTLE: 660ML RB 80MM DIVA,8.8775
+AA,Layer Board: Cardboard,6.5464
+AD,Layer Board: Cardboard,6.5464
+AG,Layer Board: Cardboard,6.5464
+AF,Layer Board: Cardboard,6.5464
+AC,Layer Board: Cardboard,6.5464
+AE,Layer Board: Cardboard,6.5464
+AB,Layer Board: Cardboard,5.9423
+AG,B&CR: 750ml NRB NAM Plastic Brown,8.1442
+AE,B&CR: 750ml NRB NAM Plastic Brown,8.1442
+AA,B&CR: 660RB Green & Brown Crate,16.9192
+AD,B&CR: 660RB Green & Brown Crate,16.9192
+AG,B&CR: 660RB Green & Brown Crate,16.9192
+AF,B&CR: 660RB Green & Brown Crate,16.9192
+AC,B&CR: 660RB Green & Brown Crate,16.9192
+AE,B&CR: 660RB Green & Brown Crate,16.9192
+AB,B&CR: 660RB Green & Brown Crate,16.9192
+AD,B&CR: 660ml RB 70mm Diva Sorted,14.5692
+AC,B&CR: 660ml RB 70mm Diva Sorted,14.5692
+AE,B&CR: 660ml RB 70mm Diva Sorted,14.5692
+AD,B&CR: 660ml RB 80mm Diva Sorted,14.5692
+AC,B&CR: 660ml RB 80mm Diva Sorted,14.5692
+AE,B&CR: 660ml RB 80mm Diva Sorted,14.5692
+AA,B&CR: 330RB Amber & Brown Crate,23.9358
+AD,B&CR: 330RB Amber & Brown Crate,23.9358
+AG,B&CR: 330RB Amber & Brown Crate,23.9358
+AF,B&CR: 330RB Amber & Brown Crate,23.9358
+AC,B&CR: 330RB Amber & Brown Crate,23.9358
+AE,B&CR: 330RB Amber & Brown Crate,23.9358
+AB,B&CR: 330RB Amber & Brown Crate,23.9358
+AA,Crate: Brown Pint,8.1442
+AD,Crate: Brown Pint,8.1442
+AG,Crate: Brown Pint,8.1442
+AF,Crate: Brown Pint,8.1442
+AC,Crate: Brown Pint,8.1442
+AE,Crate: Brown Pint,8.1442
+AB,Crate: Brown Pint,8.1442
+AA,Bottle: 660ml RB U/E Green Diner,7.4124
+AD,Bottle: 660ml RB U/E Green Diner,7.4124
+AG,Bottle: 660ml RB U/E Green Diner,7.4124
+AF,Bottle: 660ml RB U/E Green Diner,7.4124
+AC,Bottle: 660ml RB U/E Green Diner,7.4124
+AE,Bottle: 660ml RB U/E Green Diner,7.4124
+AB,Bottle: 660ml RB U/E Green Diner,7.4124
+AA,Bottle: 330RB Amber Uno,15.8942
+AD,Bottle: 330RB Amber Uno,15.8942
+AG,Bottle: 330RB Amber Uno,15.8942
+AF,Bottle: 330RB Amber Uno,15.8942
+AC,Bottle: 330RB Amber Uno,15.8942
+AE,Bottle: 330RB Amber Uno,15.8942
+AB,Bottle: 330RB Amber Uno,15.8942
+AA,Bottle: 660RB Green Peroni,0.8338
+AD,Bottle: 660RB Green Peroni,0.8338
+AG,Bottle: 660RB Green Peroni,0.8338
+AF,Bottle: 660RB Green Peroni,0.8338
+AC,Bottle: 660RB Green Peroni,0.8338
+AE,Bottle: 660RB Green Peroni,0.8338
+AB,Bottle: 660RB Green Peroni,0.8338
+AA,XXXB&CR: 660RB Green Peroni & Navy Crate,16.9192
+AD,XXXB&CR: 660RB Green Peroni & Navy Crate,16.9192
+AG,XXXB&CR: 660RB Green Peroni & Navy Crate,16.9192
+AF,XXXB&CR: 660RB Green Peroni & Navy Crate,16.9192
+AC,XXXB&CR: 660RB Green Peroni & Navy Crate,16.9192
+AE,XXXB&CR: 660RB Green Peroni & Navy Crate,16.9192
+AB,XXXB&CR: 660RB Green Peroni & Navy Crate,16.9192
+AA,Crate: Navy Quart,8.1442
+AD,Crate: Navy Quart,8.1442
+AG,Crate: Navy Quart,8.1442
+AF,Crate: Navy Quart,8.1442
+AC,Crate: Navy Quart,8.1442
+AE,Crate: Navy Quart,8.1442
+AB,Crate: Navy Quart,8.1442
+AA,XYX SC618 AMSTEL GLASSES,350.7608
+AD,XYX SC618 AMSTEL GLASSES,350.7608
+AG,XYX SC618 AMSTEL GLASSES,350.7608
+AF,XYX SC618 AMSTEL GLASSES,350.7608
+AC,XYX SC618 AMSTEL GLASSES,350.7608
+AE,XYX SC618 AMSTEL GLASSES,350.7608
+AB,XYX SC618 AMSTEL GLASSES,350.7608
+AG,1000ML SPRITE CFB,16.9192
+AA,XXXX B&CR: 750RB Calabash sorted,16.0358
+AD,XXXX B&CR: 750RB Calabash sorted,16.0358
+AG,XXXX B&CR: 750RB Calabash sorted,16.0358
+AF,XXXX B&CR: 750RB Calabash sorted,16.0358
+AC,XXXX B&CR: 750RB Calabash sorted,16.0358
+AE,XXXX B&CR: 750RB Calabash sorted,16.0358
+AB,XXXX B&CR: 750RB Calabash sorted,16.0358
+AA,B&CR: Bottles for Culling & Brown Crate,16.0358
+AD,B&CR: Bottles for Culling & Brown Crate,16.0358
+AG,B&CR: Bottles for Culling & Brown Crate,7.9942
+AF,B&CR: Bottles for Culling & Brown Crate,16.0358
+AC,B&CR: Bottles for Culling & Brown Crate,16.0358
+AE,B&CR: Bottles for Culling & Brown Crate,16.0358
+AB,B&CR: Bottles for Culling & Brown Crate,16.0358
+AA,XXXX Bottle:  Quart Bottles for Culling,7.9942
+AD,XXXX Bottle:  Quart Bottles for Culling,7.9942
+AG,XXXX Bottle:  Quart Bottles for Culling,7.9942
+AF,XXXX Bottle:  Quart Bottles for Culling,7.9942
+AC,XXXX Bottle:  Quart Bottles for Culling,7.9942
+AE,XXXX Bottle:  Quart Bottles for Culling,7.9942
+AB,XXXX Bottle:  Quart Bottles for Culling,7.9942
+AG,B&CR: 750ml NRB Nam Carton,14.5942
+AA,Cullet -660 ml bottles,21.7608
+AC,Cullet -660 ml bottles,8.8775
+AA,Cullet - 350 ml bottles,17.6025
+AA,Cullet -750 ml bottles,20.8775
+AC,Cullet -750 ml bottles,7.9942
+AA,Cullet -340 NRB bottles,17.6025
+AA,Cullet -275 ml BF bottles,17.6025
+AA,Cullet - 330 RB bottles,12.4525
+AC,Cullet - 330 RB bottles,15.8942
+AA,Bottle: 500RB Amber SAB Longneck,8.8775
+AD,Bottle: 500RB Amber SAB Longneck,8.8775
+AA,B&CR: 500RB Amber & Yellow Crate,16.9192
+AD,B&CR: 500RB Amber & Yellow Crate,16.9192
+AA,XXX 500ml NRB Amber ERROR,14.3690
+AA,B&CR: 500ml NRB Plastic Navy,25.2640
+AA,Bottle: 500ml NRB Amber (Flame Grilled),17.2223
+AG,B&CR: 660ml NRB Diner Plastic Red,29.6525
+AG,B&CR: NAMIBIA (VASLINE),24.9116
+AA,CRATE: SCRAP 750ml RB Plastic Brown,8.1442
+AD,CRATE: SCRAP 750ml RB Plastic Brown,8.1442
+AG,CRATE: SCRAP 750ml RB Plastic Brown,8.1442
+AF,CRATE: SCRAP 750ml RB Plastic Brown,8.1442
+AC,CRATE: SCRAP 750ml RB Plastic Brown,8.1442
+AE,CRATE: SCRAP 750ml RB Plastic Brown,8.1442
+AB,CRATE: SCRAP 750ml RB Plastic Brown,8.1442
+AA,CRATE: SCRAP RB Plastic Red,8.1442
+AD,CRATE: SCRAP RB Plastic Red,8.1442
+AG,CRATE: SCRAP RB Plastic Red,8.1442
+AF,CRATE: SCRAP RB Plastic Red,8.1442
+AC,CRATE: SCRAP RB Plastic Red,8.1442
+AE,CRATE: SCRAP RB Plastic Red,8.1442
+AB,CRATE: SCRAP RB Plastic Red,8.1442
+AA,CRATE: SCRAP 660ml RB Plastic Blue,8.1442
+AD,CRATE: SCRAP 660ml RB Plastic Blue,8.1442
+AG,CRATE: SCRAP 660ml RB Plastic Blue,8.1442
+AF,CRATE: SCRAP 660ml RB Plastic Blue,8.1442
+AC,CRATE: SCRAP 660ml RB Plastic Blue,8.1442
+AE,CRATE: SCRAP 660ml RB Plastic Blue,8.1442
+AB,CRATE: SCRAP 660ml RB Plastic Blue,8.1442
+AA,CRATE: SCRAP RB PLASTIC YELLOW,8.1442
+AD,CRATE: SCRAP RB PLASTIC YELLOW,8.1442
+AG,CRATE: SCRAP RB PLASTIC YELLOW,8.1442
+AF,CRATE: SCRAP RB PLASTIC YELLOW,8.1442
+AC,CRATE: SCRAP RB PLASTIC YELLOW,8.1442
+AE,CRATE: SCRAP RB PLASTIC YELLOW,8.1442
+AB,CRATE: SCRAP RB PLASTIC YELLOW,8.1442
+AA,CRATE: SCRAP RB PLASTIC GREY,8.1442
+AD,CRATE: SCRAP RB PLASTIC GREY,8.1442
+AG,CRATE: SCRAP RB PLASTIC GREY,8.1442
+AF,CRATE: SCRAP RB PLASTIC GREY,8.1442
+AC,CRATE: SCRAP RB PLASTIC GREY,8.1442
+AE,CRATE: SCRAP RB PLASTIC GREY,8.1442
+AB,CRATE: SCRAP RB PLASTIC GREY,8.1442
+AA,CRATE: SCRAP 330ml RB Plastic Dbrwn,8.1442
+AD,CRATE: SCRAP 330ml RB Plastic Dbrwn,8.1442
+AG,CRATE: SCRAP 330ml RB Plastic Dbrwn,8.1442
+AF,CRATE: SCRAP 330ml RB Plastic Dbrwn,8.1442
+AC,CRATE: SCRAP 330ml RB Plastic Dbrwn,8.1442
+AE,CRATE: SCRAP 330ml RB Plastic Dbrwn,8.1442
+AB,CRATE: SCRAP 330ml RB Plastic Dbrwn,8.1442
+AA,CRATE: SCRAP 660ml RB Plastic Navy,8.1442
+AD,CRATE: SCRAP 660ml RB Plastic Navy,8.1442
+AG,CRATE: SCRAP 660ml RB Plastic Navy,8.1442
+AF,CRATE: SCRAP 660ml RB Plastic Navy,8.1442
+AC,CRATE: SCRAP 660ml RB Plastic Navy,8.1442
+AE,CRATE: SCRAP 660ml RB Plastic Navy,8.1442
+AB,CRATE: SCRAP 660ml RB Plastic Navy,8.1442
+AD,Pallet NRB 84,133.4358
+AG,CRATE: NAMIBIA PLASTIC BROWN,40.7775
+AD,Keg: 20L Empty,263.2608
+AD,B&CR: Mix Quart & Navy Crate,16.9192
+AG,B&CR: Mix Quart & Navy Crate,16.9192
+AE,B&CR: Mix Quart & Navy Crate,16.9192
+AD,XXX B&CR: 500ml RB Plastic Navy,16.9192
+AG,CRATE: KBL PLASTIC RED (BOTSWANA),0.1025
+AG,Pallet KBL Wood (Botswana),233.4358
+AG,B&CR: KBL CRATE/BOTTLE BOTSWANA,23.4358
+AD,Bottle: 660RB Green Fish,8.8775
+AG,Bottle: 660RB Green Fish,8.8775
+AE,Bottle: 660RB Green Fish,8.8775
+AD,B&CR: 660RB Green Fish & Navy Crate,16.9192
+AG,B&CR: 660RB Green Fish & Navy Crate,16.9192
+AE,B&CR: 660RB Green Fish & Navy Crate,16.9192
+AA,Bottle: 660RB Green Carling,8.8775
+AD,Bottle: 660RB Green Carling,8.8775
+AG,Bottle: 660RB Green Carling,8.8775
+AD,B&CR: 660RB Green Carling & Green Crate,16.9192
+AG,B&CR: 660RB Green Carling & Green Crate,16.9192
+AD,Crate: Green Quart,8.1442
+AG,Crate: Green Quart,8.1442
+AA,Bottle: 330RB Flint Uno,15.8942
+AD,Bottle: 330RB Flint Uno,15.8942
+AG,Bottle: 330RB Flint Uno,15.8942
+AF,Bottle: 330RB Flint Uno,15.8942
+AC,Bottle: 330RB Flint Uno,15.8942
+AE,Bottle: 330RB Flint Uno,15.8942
+AB,Bottle: 330RB Flint Uno,15.8942
+AA,Crate: Blue Pint,8.1442
+AD,Crate: Blue Pint,8.1442
+AG,Crate: Blue Pint,8.1442
+AF,Crate: Blue Pint,8.1442
+AC,Crate: Blue Pint,8.1442
+AE,Crate: Blue Pint,8.1442
+AB,Crate: Blue Pint,8.1442
+AA,B&CR: 330RB Flint & Blue Crate,23.9358
+AD,B&CR: 330RB Flint & Blue Crate,23.9358
+AG,B&CR: 330RB Flint & Blue Crate,23.9358
+AF,B&CR: 330RB Flint & Blue Crate,23.9358
+AC,B&CR: 330RB Flint & Blue Crate,23.9358
+AE,B&CR: 330RB Flint & Blue Crate,23.9358
+AB,B&CR: 330RB Flint & Blue Crate,23.9358
+AG,CRATE: 750ML RB PLASTIC (BOTSWANA),8.1442
+AG,B&CR: KBL CRATE/BOTTLE CBL BOTSWANA,16.0358
+AD,XXXX B&CR: 660RB Flint Bella&BrownCrate,16.9192
+AA,Bottle: Quart Foreign,#VALUE!
+AD,Bottle: Quart Foreign,#VALUE!
+AG,Bottle: Quart Foreign,#VALUE!
+AF,Bottle: Quart Foreign,#VALUE!
+AC,Bottle: Quart Foreign,#VALUE!
+AE,Bottle: Quart Foreign,#VALUE!
+AB,Bottle: Quart Foreign,#VALUE!
+AA,Crate: Foreign 16 pocket,#VALUE!
+AD,Crate: Foreign 16 pocket,#VALUE!
+AG,Crate: Foreign 16 pocket,#VALUE!
+AF,Crate: Foreign 16 pocket,#VALUE!
+AC,Crate: Foreign 16 pocket,#VALUE!
+AE,Crate: Foreign 16 pocket,#VALUE!
+AB,Crate: Foreign 16 pocket,#VALUE!
+AA,B&CR: Foreign Bottle & 16 Pocket Crate,#VALUE!
+AD,B&CR: Foreign Bottle & 16 Pocket Crate,#VALUE!
+AG,B&CR: Foreign Bottle & 16 Pocket Crate,#VALUE!
+AF,B&CR: Foreign Bottle & 16 Pocket Crate,#VALUE!
+AC,B&CR: Foreign Bottle & 16 Pocket Crate,#VALUE!
+AE,B&CR: Foreign Bottle & 16 Pocket Crate,#VALUE!
+AB,B&CR: Foreign Bottle & 16 Pocket Crate,#VALUE!
+AA,B&CR: Foreign Bottle & Brown Crate,#VALUE!
+AD,B&CR: Foreign Bottle & Brown Crate,#VALUE!
+AG,B&CR: Foreign Bottle & Brown Crate,#VALUE!
+AF,B&CR: Foreign Bottle & Brown Crate,#VALUE!
+AC,B&CR: Foreign Bottle & Brown Crate,#VALUE!
+AE,B&CR: Foreign Bottle & Brown Crate,#VALUE!
+AB,B&CR: Foreign Bottle & Brown Crate,#VALUE!
+AD,Keg: 30L Stella Import Empty,263.2608
+AA,Crate: 1L Brown,8.1442
+AD,Crate: 1L Brown,8.1442
+AG,Crate: 1L Brown,8.1442
+AF,Crate: 1L Brown,8.1442
+AC,Crate: 1L Brown,8.1442
+AE,Crate: 1L Brown,8.1442
+AB,Crate: 1L Brown,8.1442
+AA,Bottle: 1000RB Amber,7.9942
+AD,Bottle: 1000RB Amber,7.9942
+AG,Bottle: 1000RB Amber,7.9942
+AF,Bottle: 1000RB Amber,7.9942
+AC,Bottle: 1000RB Amber,7.9942
+AE,Bottle: 1000RB Amber,7.9942
+AB,Bottle: 1000RB Amber,7.9942
+AA,B&CR: 1000RB Amber & 1L Brown Crate,16.0358
+AD,B&CR: 1000RB Amber & 1L Brown Crate,16.0358
+AG,B&CR: 1000RB Amber & 1L Brown Crate,16.0358
+AF,B&CR: 1000RB Amber & 1L Brown Crate,16.0358
+AC,B&CR: 1000RB Amber & 1L Brown Crate,16.0358
+AE,B&CR: 1000RB Amber & 1L Brown Crate,16.0358
+AB,B&CR: 1000RB Amber & 1L Brown Crate,16.0358
+AA,Cullet 1000 ml bottles,21.7608
+AG,Bottle: 660RB Budweiser,17.5025
+AG,Crate: Black Quart,8.1442
+AG,B&CR: 660RB Budweiser & Black Crate,25.5442
+AA,Bottle: 910RB Green,17.5025
+AG,Bottle: 910RB Green,17.5025
+AC,Bottle: 910RB Green,17.5025
+AE,Bottle: 910RB Green,17.5025
+AB,Bottle: 910RB Green,17.5025
+AG,Crate: 910ML Red,8.1442
+AB,Crate: 910ML Red,8.1442
+AA,B&CR: 910RB Green & 910ML Red Crate,25.5442
+AG,B&CR: 910RB Green & 910ML Red Crate,25.5442
+AC,B&CR: 910RB Green & 910ML Red Crate,25.5442
+AE,B&CR: 910RB Green & 910ML Red Crate,25.5442
+AB,B&CR: 910RB Green & 910ML Red Crate,25.5442
+AG,Bottle: 660RB Green Beck's,17.5025
+AA,B&CR: 660RB Green & 660ML Yellow Crate,25.5442
+AG,B&CR: 660RB Green & 660ML Yellow Crate,25.5442
+AC,B&CR: 660RB Green & 660ML Yellow Crate,25.5442
+AE,B&CR: 660RB Green & 660ML Yellow Crate,25.5442
+AA,B&CR: Mix 1L & Brown Crate,16.0358
+AD,B&CR: Mix 1L & Brown Crate,16.0358
+AG,B&CR: Mix 1L & Brown Crate,16.0358
+AF,B&CR: Mix 1L & Brown Crate,16.0358
+AC,B&CR: Mix 1L & Brown Crate,16.0358
+AE,B&CR: Mix 1L & Brown Crate,16.0358
+AB,B&CR: Mix 1L & Brown Crate,16.0358
+AA,CRATE: SCRAP 1L RB Plastic Brown,8.1442
+AD,CRATE: SCRAP 1L RB Plastic Brown,8.1442
+AG,CRATE: SCRAP 1L RB Plastic Brown,8.1442
+AF,CRATE: SCRAP 1L RB Plastic Brown,8.1442
+AC,CRATE: SCRAP 1L RB Plastic Brown,8.1442
+AE,CRATE: SCRAP 1L RB Plastic Brown,8.1442
+AB,CRATE: SCRAP 1L RB Plastic Brown,8.1442
+AG,Cullet 910 ml bottles,21.7608
+AA,Keg: 20L Leffe Blond Import Empty,263.2608
+AG,Keg: 20L Leffe Blond Import Empty,263.2608
+AC,Keg: 20L Leffe Blond Import Empty,263.2608
+AE,Keg: 20L Leffe Blond Import Empty,263.2608
+AA,Keg: 20L Hoegaarden White Import Empty,263.2608
+AG,Keg: 20L Hoegaarden White Import Empty,263.2608
+AC,Keg: 20L Hoegaarden White Import Empty,263.2608
+AE,Keg: 20L Hoegaarden White Import Empty,263.2608
+AG,XXX Bottle: 660NRB Budweiser,8.8775
+AG,B&CR: 660NRB Budweiser & Black Crate,16.9192
+AG,B&CR: CLT 660ml NRB BIG,29.6525
+AG,B&CR: 910RB Green & 910ML Red Crate,16.0358
